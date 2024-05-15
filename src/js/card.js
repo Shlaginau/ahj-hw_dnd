@@ -5,10 +5,11 @@ export default class Card {
     this.addButton = addButton;
 
     if (!this.modal || !this.cardsContainer || !this.addButton) {
+    // eslint-disable-next-line no-console
       console.error('Error: Missing elements', {
         modal: this.modal,
         cardsContainer: this.cardsContainer,
-        addButton: this.addButton
+        addButton: this.addButton,
       });
       throw new Error('All elements must be provided: modal, cardsContainer, and addButton.');
     }
@@ -75,7 +76,7 @@ export default class Card {
   }
 
   loadCards() {
-    this.cardsData.forEach(content => {
+    this.cardsData.forEach((content) => {
       this.createCardElement(content);
     });
   }
