@@ -1,4 +1,4 @@
-![Build status](https://github.com/Shlaginau/ahj-hw-dnd/actions/workflows/web.yml/badge.svg)
+![Build status](https://github.com/Shlaginau/ahj-hw_dnd/actions/workflows/web.yml/badge.svg)
 
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
 
