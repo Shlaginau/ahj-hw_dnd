@@ -18,7 +18,7 @@
 
 Вы делаете внутрикорпоративную систему управления задачами и вашему руководству очень нравится подход, который используется в [Trello](https://trello.com):
 
-![](./pic/trello.png)
+![](https://github.com/netology-code/ahj-homeworks/blob/AHJ-50/dnd/pic/trello.png)
 
 
 #### Описание
@@ -33,14 +33,14 @@
 Что же можно:
 1. Добавлять карточки с помощью кнопки 'Add another card'. Вот так это выглядит:
 
-![](./pic/trello-2.png)
+![](https://github.com/netology-code/ahj-homeworks/blob/AHJ-50/dnd/pic/trello-2.png)
 
-![](./pic/trello-3.png)
+![](https://github.com/netology-code/ahj-homeworks/blob/AHJ-50/dnd/pic/trello-3.png)
 
 
 2. Удалять карточки - при наведении на карточку появляется иконка крестик ("\E951"), которая и удаляет карточку (обратите внимание в оригинальном Trello такой операции нет, есть только архивация, но мы для упрощения её ввели):
 
-![](./pic/trello-4.png)
+![](https://github.com/netology-code/ahj-homeworks/blob/AHJ-50/dnd/pic/trello-4.png)
 
  
 4. Перемещать карточки как внутри колонки, так и между колонками:
@@ -49,21 +49,21 @@
 
 1. Внешний вид до переноса (карточка находится на своём месте):
 
-![](./pic/trello-5.png)
+![](https://github.com/netology-code/ahj-homeworks/blob/AHJ-50/dnd/pic/trello-5.png)
 
 2. Внешний вид в момент переноса (карточка удаляется из своего начального положения):
 
-![](./pic/trello-6.png)
+![](https://github.com/netology-code/ahj-homeworks/blob/AHJ-50/dnd/pic/trello-6.png)
 
 Обратите внимание на следующие нюансы:
 1. Внешний вид курсора ('grabbing')
 2. Курсор по отношению к карточке остаётся там, где изначально схватили - не привязывается ни к левому краю, ни к центру, а там, где схватили карточку, т.е. можно схватить за нижний левый угол:
 
-![](./pic/trello-7.png)
+![](https://github.com/netology-code/ahj-homeworks/blob/AHJ-50/dnd/pic/trello-7.png)
 
 3. При наведении на другие позиции под карточку выделяется место по высоте равное размеру самой карточке, при это будет карточка ставится "до" или "после" элемента определяется исключительно позицией курсора:
 
-![](./pic/trello-8.png)
+![](https://github.com/netology-code/ahj-homeworks/blob/AHJ-50/dnd/pic/trello-8)
 
 ##### Дополнительно
 
@@ -94,7 +94,7 @@
 
 Внешний интерфейс должен выглядеть следующим образом:
 
-![](./pic/image.png)
+![](https://github.com/netology-code/ahj-homeworks/blob/AHJ-50/dnd/pic/image.png)
 
 Схема работы:
 1. При переносе изображения (Native DnD) с компьютера пользователя в блок Drag and Drop (т.е. из файлового менеджера переносим файл в окно браузера) должна происходить загрузка файла (если это изображение) и отображение его внизу (превью с крестиком)
@@ -120,7 +120,7 @@
 
 Внешний вид должен выглядеть следующим образом:
 
-![](./pic/download.png)
+![](https://github.com/netology-code/ahj-homeworks/blob/AHJ-50/dnd/pic/download.png)
 
 PDF-файлы для реализации вы найдёте в каталоге files данного репозитория.
 
