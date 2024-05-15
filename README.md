@@ -1,5 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/yktlv88awe8uxja3?svg=true)](https://ci.appveyor.com/project/Shlaginau/ahj-hw-dnd)
-
+![Build status](https://github.com/Shlaginau/ahj-hw-dnd/actions/workflows/web.yml/badge.svg)
 
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
 
